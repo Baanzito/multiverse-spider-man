@@ -1,0 +1,16 @@
+@import url('/assets/css/reset.css');
+@import url('/assets/css/global.css');
+
+body {
+    background-color: var(--primary-color);
+}
+
+.s-menu{
+    padding: 1rem 0;
+    width: 100%;
+    text-align: center;
+}
+
+.s-meun__item {
+    display: inline-block;
+}
